@@ -1,9 +1,5 @@
 package com.parking.ParkingManagementSystem.models;
 
-import ch.qos.logback.core.testUtil.RandomUtil;
-
-import java.sql.Timestamp;
-import java.util.Random;
 import java.util.UUID;
 
 public class Ticket {
